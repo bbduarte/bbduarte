@@ -2,8 +2,9 @@
 <h3 align="center">A backend developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbduarte&label=Profile%20views&color=0e75b6&style=flat" alt="bbduarte" /> </p>
-- 🎓 I’m a software engineer student at University of Brasilia 
 
+- 🎓 I’m software engineer student at University of Brasilia
+  
 - 👨‍💻 All of my projects are available at [bbduarte.dev](bbduarte.dev)
 
 - 📫 How to reach me **bbduarte@live.com**
