@@ -5,7 +5,7 @@
 
 - 🎓 I’m software engineer student at University of Brasilia
   
-- 👨‍💻 All of my projects are available at [bbduarte.dev](bbduarte.dev)
+- 👨‍💻 All of my projects are available at [bbduarte.xyz](bbduarte.xyz)
 
 - 📫 How to reach me **bbduarte@live.com**
 
