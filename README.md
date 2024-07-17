@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bbduarte&label=Profile%20views&color=0e75b6&style=flat" alt="bbduarte" /> </p>
 
 - 🎓 I’m software engineer student at University of Brasilia
-- 👨‍💻 All of my projects are available at [bbduarte.xyz](bbduarte.xyz)
+- 👨‍💻 All of my projects are available at [bbduarte.xyz](https://www.bbduarte.xyz)
 - 📫 How to reach me **bbduarte@live.com**
 - ⚡ Fun fact **I'm a competitive programmer enthusiast**
 
